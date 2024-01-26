@@ -14,9 +14,9 @@
         android:text=""
         android:textColor="@color/gray"
         android:textAlignment="textEnd"
-        android:textSize="25sp"
+        android:textSize="30sp"
         android:layout_marginBottom="5dp"
-        android:layout_marginEnd="30dp"
+        android:layout_marginEnd="35dp"
         app:layout_constraintBottom_toTopOf="@+id/result_tv"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -30,8 +30,8 @@
         android:visibility="gone"
         android:textColor="@color/light_gray"
         android:textAlignment="textEnd"
-        android:textSize="36sp"
-        android:layout_marginEnd="30dp"
+        android:textSize="50sp"
+        android:layout_marginEnd="35dp"
         android:layout_marginBottom="5dp"
         app:layout_constraintBottom_toTopOf="@id/line"
         app:layout_constraintEnd_toEndOf="parent"
@@ -42,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@color/gray"
-        android:layout_marginBottom="5dp"
+        android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout" />
 
     <LinearLayout
@@ -50,7 +50,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
