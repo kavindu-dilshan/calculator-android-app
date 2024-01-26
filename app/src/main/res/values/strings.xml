@@ -5,7 +5,7 @@
     <string name="equal">=</string>
     <string name="add">+</string>
     <string name="subtract">-</string>
-    <string name="multiply">x</string>
+    <string name="multiply">*</string>
     <string name="divide">/</string>
     <string name="modulo">%</string>
     <string name="clear">C</string>
