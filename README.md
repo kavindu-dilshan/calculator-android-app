@@ -1,9 +1,9 @@
 # Calculator Android App
 <p><a href="https://github.com/kavindu-dilshan"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,github" width=150></a></p>
 
-Welcome to the Simple calculator-android-app repository! This Android application, built with Kotlin and designed in Android Studio, provides a basic yet functional calculator for your everyday mathematical needs.
+Welcome to the **calculator-android-app** repository! This Android application, built with Kotlin and designed in Android Studio, provides a basic yet functional calculator for your everyday mathematical needs.
 
-<img src="https://firebasestorage.googleapis.com/v0/b/images-for-projects.appspot.com/o/GitHub%20Mobile%20Apps%2FAndroid%20App.jpg?alt=media&token=1bf15543-3dc6-4a34-bbdf-06dd4c662ea1" alt="Home">
+<img src="https://firebasestorage.googleapis.com/v0/b/images-for-projects.appspot.com/o/GitHub%20Mobile%20Apps%2FAndroid%20App.jpg?alt=media&token=1bf15543-3dc6-4a34-bbdf-06dd4c662ea1" alt="calculator-app">
 
 ## Features:
 - <b>User-friendly Interface:</b> The app offers a clean and intuitive interface, making it easy for users to perform arithmetic calculations effortlessly.
