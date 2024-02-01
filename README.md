@@ -14,7 +14,6 @@ Welcome to the **calculator-android-app** repository! This Android application, 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
 3. Build and run the app on your emulator or physical device.
-4. Feel free to explore, contribute, or use this project as a foundation for your Android app development journey. We welcome any feedback, bug reports, or feature requests. Happy coding!
 
 ## Dependencies Used:
 - <b>net.objecthunter:exp4j:</b> A lightweight and efficient expression parser for Java, used for mathematical calculations in this project.
